@@ -90,6 +90,8 @@ public class ScanBarcodeFragment extends Fragment {
 
 
 
+
+
     }   // Main Method
 
 
